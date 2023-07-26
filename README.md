@@ -40,7 +40,6 @@ computing, Earth science and spatial data analysis in a fun, inclusive, collabor
   * 2-3: Lecture: **Satellites, GPS, and modern geodesy (Eric)**
 
 ###  Week 2
-  * 11:30 – 12: **Maps and cartopy demo (Jeng Hann)**
 
 #### Day 6 (Aug 14): Reflection seismology
   * 9:30 - 10:30 Lecture: **Seismic reflection (Lindsay)**
