@@ -76,6 +76,8 @@ To ensure your conda environment has all the packages needed for this course:
 1) Download the environment.yml file
 2) conda env create -f environment.yml
 
+Feel free to run the code for this course on your own laptop, but we will be working in the Northrop hall computer lab so you can use those computers if you prefer.
+
 ## Contributors
 Eric Lindsey, Evans Onyango, Jeng Hann Chong, Lindsay Worthington, Mousumi Roy, Brandon Schmandt
 
@@ -86,4 +88,5 @@ Eric Lindsey, Lindsay Worthington
 
 ## Acknowledgements
 This workshop was originally developed throug NSF funding (Award #2146272). Thanks to the UNM Earth & Planetary Sciences Dept. and the College of Arts & Sciences for making it possible to host the program again this year.
+
 
