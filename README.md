@@ -58,7 +58,7 @@ computing, Earth science and spatial data analysis in a fun, inclusive, collabor
   * 9:30 - 10:30 Lecture: **Maps and data visualization (Eric)**
   * 11 - 12 Lecture: **Cartopy demo (Eric)**
   * 12 - 1: Lunch 
-  * 2 – 4: Time for group projects
+  * 1 – 4: Time for group projects
 
 #### Day 9 (Aug 17): Group projects
   * Group projects all day
@@ -66,7 +66,7 @@ computing, Earth science and spatial data analysis in a fun, inclusive, collabor
 #### Day 10 (Aug 18): Last day!
   * 9:30 – 11: **Group presentations**
   * 11:15 – 12: Lecture: **Going to grad school, careers in geophysics**
-  * 12pm onward: Join grad students for lunch on the lawn and ice cream social
+  * 12pm onward: Join the EPS department for lunch on the lawn and ice cream social!
 
 ## Installation
 Programming will be done within the Jupyter-Lab environment. This can be installed through conda (https://www.anaconda.com/).
