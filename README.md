@@ -34,7 +34,7 @@ computing, Earth science and spatial data analysis in a fun, inclusive, collabor
   * 3 – 4: Lecture: **Prep for active seismic survey (Lindsay)**
 
 #### Day 5 (Aug 11): Field day
-  * 8:30 – 12: Seismic survey at Alameda open space
+  * **8:30** – 12: Seismic survey at Alameda open space
   * Lunch – after retrun
   * 1:30 – 2: Lecture: **ABQ geology (Lindsay)**
   * 2-3: Lecture: **Satellites, GPS, and modern geodesy (Eric)**
@@ -48,10 +48,11 @@ computing, Earth science and spatial data analysis in a fun, inclusive, collabor
   * 1 – 2: Lecture: **Alaskan tectonics (Lindsay)**
   * 2 - 4: Self-guided exercises: Seismic reflection
 
-#### Day 7 (Aug 15): High Performance computing
+#### Day 7 (Aug 15): Modeling and parameter estimation
+  * 9:30 - 11: Lecture: **What is a "model" in geophysics? (Eric)**
+  * 11 - 12: Demo: **Modeling an earthquake (Eric)**
   * 12 – 1: Lunch
-  * 1 - 2: Lecture: **Modeling and parameter estimation (Eric)**
-  * 2 – 4: Self-guided exercises: modeling 
+  * 1 – 4: Self-guided exercises: modeling 
 
 #### Day 8 (Aug 16): Making maps and other figures
   * 9:30 - 10:30 Lecture: **Maps and data visualization (Eric)**
