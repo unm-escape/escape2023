@@ -78,6 +78,14 @@ To ensure your conda environment has all the packages needed for this course:
 1) Download the escape2023.yml file (for example by cloning this repository)
 2) Open an anaconda prompt, use 'cd' to move to the directory where this file is located, and then run `conda env create -f escape2023.yml`
 
+Alternatively, you can create a mostly similar environment with the following commands:
+
+    conda create --name escape2023 python=3.10
+    conda activate escape2023
+    conda install -c conda-forge jupyterlab numpy scipy pandas cartopy ipywidgets obspy plotly matplotlib
+
+Finally, you can create the environment manually in Anaconda Navigator by finding the above list of packages and installing them individually.
+
 Feel free to run the code for this course on your own laptop, but we will be working in the Northrop hall computer lab so you can use those computers if you prefer.
 
 ## Contributors
