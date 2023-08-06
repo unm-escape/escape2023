@@ -49,7 +49,6 @@ computing, Earth science and spatial data analysis in a fun, inclusive, collabor
   * 2 - 4: Self-guided exercises: Seismic reflection
 
 #### Day 7 (Aug 15): High Performance computing
-  * 9:30 – 11:30: **Visit to UNM Center for Advanced Research Computing (CARC)**
   * 12 – 1: Lunch
   * 1 - 2: Lecture: **Modeling and parameter estimation (Eric)**
   * 2 – 4: Self-guided exercises: modeling 
@@ -60,8 +59,11 @@ computing, Earth science and spatial data analysis in a fun, inclusive, collabor
   * 12 - 1: Lunch 
   * 1 – 4: Time for group projects
 
-#### Day 9 (Aug 17): Group projects
-  * Group projects all day
+#### Day 9 (Aug 17): High performance computing & Group projects
+  * **9:00** – 11: **Visit to UNM Center for Advanced Research Computing (CARC)**
+  * 11 - 12: Group projects
+  * 12 - 1: Lunch 
+  * Group projects all afternoon
 
 #### Day 10 (Aug 18): Last day!
   * 9:30 – 11: **Group presentations**
@@ -72,8 +74,8 @@ computing, Earth science and spatial data analysis in a fun, inclusive, collabor
 Programming will be done within the Jupyter-Lab environment. This can be installed through conda (https://www.anaconda.com/).
 
 To ensure your conda environment has all the packages needed for this course:
-1) Download the environment.yml file
-2) conda env create -f environment.yml
+1) Download the escape2023.yml file (for example by cloning this repository)
+2) Open an anaconda prompt, use 'cd' to move to the directory where this file is located, and then run `conda env create -f escape2023.yml`
 
 Feel free to run the code for this course on your own laptop, but we will be working in the Northrop hall computer lab so you can use those computers if you prefer.
 
