@@ -5,6 +5,8 @@
 ESCAPE 2023 is a 2-week program designed to introduce participants to scientific
 computing, Earth science and spatial data analysis in a fun, inclusive, collaborative environment.
 
+[Lecture slides (OneDrive, read-only link)](https://unmm-my.sharepoint.com/:f:/g/personal/eol_unm_edu/Eow7Z0HhfThKmkPtX8kHF6YBR3QvPLdyrt0OpUqBqr27kg?e=SNnBEZ)
+
 ## Schedule
 
 ### Week 1
