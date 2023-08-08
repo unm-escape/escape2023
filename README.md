@@ -31,25 +31,25 @@ computing, Earth science and spatial data analysis in a fun, inclusive, collabor
 
 #### Day 4 (Aug 10): Seismology
   * 9:30 – 10:30: **What is seismology? (Brandon)**
-  * 11 – 12: Lecture: **Seismic data intro & demo (Lindsay)**
+  * 11 – 12: Discussion and exercises: **Date time in python (Andrew)**
   * 12 - 1: Lunch
   * 1 – 3 ObsPy demo & exercises
   * 3 – 4: Lecture: **Prep for active seismic survey (Lindsay)**
 
 #### Day 5 (Aug 11): Field day
-  * **8:30** – 12: Seismic survey at Alameda open space
-  * Lunch – after retrun
-  * 1:30 – 2: Lecture: **ABQ geology (Lindsay)**
-  * 2-3: Lecture: **Satellites, GPS, and modern geodesy (Eric)**
+  * **8:30** – 12: Seismic survey at Alameda open space - meet at the loading dock. We will leave at 8:30!
+  * Lunch –  in the field or after retrun
+  * 1:30 – 2: Finish Obspy exercises
+  * 2-3: Lecture: **Seismic reflection data and exploration (Andrew)**
 
 ###  Week 2
 
 #### Day 6 (Aug 14): Reflection seismology
-  * 9:30 - 10:30 Lecture: **Seismic reflection (Lindsay)**
-  * 11 - 12: Demo: **Plotting seismic reflection data and picking arrivals (Lindsay)**
+  * 9:30 - 10:30 Demo: **Plotting seismic reflection data and picking arrivals (Andrew and Lindsay)**
+  * 11 - 12: Self-guided exercises: Seismic reflection
   * 12 - 1: Lunch
-  * 1 – 2: Lecture: **Alaskan tectonics (Lindsay)**
-  * 2 - 4: Self-guided exercises: Seismic reflection
+  * 1 – 2: Lecture: **Satellites and GPS (Eric)**
+  * 2 - 4: 
 
 #### Day 7 (Aug 15): Modeling and parameter estimation
   * 9:30 - 11: Lecture: **What is a "model" in geophysics? (Eric)**
