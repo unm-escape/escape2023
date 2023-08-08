@@ -20,8 +20,9 @@ computing, Earth science and spatial data analysis in a fun, inclusive, collabor
 
 #### Day 2 (Aug 8): Interacting with data
   * 9:30 – 11: Lecture / demo: **Reading data in python and making a plot (Eric)**
-  * 12 – 1: Lunch
-  * 1 – 4: Self-guided exercises: reading GPS data, plotting, and writing functions
+  * 11 - 12: Finish up assignments from yesterday
+  * 12 – 1: Lunch - Dion's
+  * 1 – 4: Self-guided exercises: reading data and making nice plots
 
 #### Day 3 (Aug 9): Answering questions in plate tectonics
   * 9:30 – 11: Lecture: **Questions in Plate tectonics (Mousumi)**
