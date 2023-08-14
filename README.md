@@ -66,7 +66,8 @@ computing, Earth science and spatial data analysis in a fun, inclusive, collabor
 #### Day 9 (Aug 17): High performance computing & Group projects
   * **9:00** – 11: **Visit to UNM Center for Advanced Research Computing (CARC)**
   * 11 - 12: Group projects
-  * 12 - 1: Lunch 
+  * 12 - 1: Lunch
+  * 2 - 3 pm: Visit to the Meteorite Museum!
   * Group projects all afternoon
 
 #### Day 10 (Aug 18): Last day!
