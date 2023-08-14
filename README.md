@@ -48,14 +48,15 @@ computing, Earth science and spatial data analysis in a fun, inclusive, collabor
   * 9:30 - 10:30 Demo: **Plotting seismic reflection data and picking arrivals (Andrew and Lindsay)**
   * 11 - 12: Self-guided exercises: Seismic reflection
   * 12 - 1: Lunch
-  * 1 – 2: Lecture: **Satellites and GPS (Eric)**
-  * 2 - 4: 
+  * 1 - 2: Exercises
+  * 2 – 3: Lecture:  Lecture: **What is a "model" in geophysics? (Eric)** 
+  * 3 - 4: Exercises
 
 #### Day 7 (Aug 15): Modeling and parameter estimation
-  * 9:30 - 11: Lecture: **What is a "model" in geophysics? (Eric)**
-  * 11 - 12: Demo: **Modeling an earthquake (Eric)**
+  * 9:30 - 11: Lecture: **Geodesy, satellites, GPS and InSAR (Eric)**
+  * 11 - 12: Lecture: **Modeling an earthquake (Eric)**
   * 12 – 1: Lunch
-  * 1 – 4: Self-guided exercises: modeling 
+  * 1 – 4: Self-guided exercises: modeling
 
 #### Day 8 (Aug 16): Making maps and other figures
   * 9:30 - 10:30 Lecture: **Maps and data visualization (Eric)**
