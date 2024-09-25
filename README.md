@@ -7,6 +7,9 @@ computing, Earth science and spatial data analysis in a fun, inclusive, collabor
 
 [Lecture slides (OneDrive, read-only link)](https://unmm-my.sharepoint.com/:f:/g/personal/eol_unm_edu/Eow7Z0HhfThKmkPtX8kHF6YBR3QvPLdyrt0OpUqBqr27kg?e=SNnBEZ)
 
+[![DOI](https://zenodo.org/badge/671227985.svg)](https://zenodo.org/doi/10.5281/zenodo.13839753)
+
+
 ## Schedule
 
 ### Week 1
