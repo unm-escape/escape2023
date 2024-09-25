@@ -96,8 +96,6 @@ Feel free to run the code for this course on your own laptop, but we will be wor
 ## Contributors
 Eric Lindsey, Evans Onyango, Jeng Hann Chong, Lindsay Worthington, Mousumi Roy, Brandon Schmandt
 
-[![DOI](https://zenodo.org/badge/501495854.svg)](https://zenodo.org/badge/latestdoi/501495854)
-
 ## Maintainers
 Eric Lindsey, Lindsay Worthington
 
